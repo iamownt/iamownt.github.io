@@ -77,9 +77,9 @@ X. Zhang†*, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, 
 * 🥾 I am passionate about hiking — every weekend I spend half day exploring trails in Hong Kong. I have completed over 400 km, including the famous MacLehose Trail (100 km), Lantau Trail (70 km), and Hong Kong Trail (50 km). Here are some photos I took along the way:
 
 <div style="display: flex; gap: 8px; justify-content: center; margin-top: 20px;">
-  <img src="images/scene_image1.jpg" style="width: 32%; border-radius: 4px; object-fit: cover; aspect-ratio: 3/4;" alt="Hiking scene 1">
-  <img src="images/scene_image2.jpg" style="width: 32%; border-radius: 4px; object-fit: cover; aspect-ratio: 3/4;" alt="Hiking scene 2">
-  <img src="images/scene_image3.jpg" style="width: 32%; border-radius: 4px; object-fit: cover; aspect-ratio: 3/4;" alt="Hiking scene 3">
+  <img src="images/scene_image1.jpg" style="width: 32%; border-radius: 4px; object-fit: cover; aspect-ratio: 4/3;" alt="Hiking scene 1">
+  <img src="images/scene_image2.jpg" style="width: 32%; border-radius: 4px; object-fit: cover; aspect-ratio: 4/3;" alt="Hiking scene 2">
+  <img src="images/scene_image3.jpg" style="width: 32%; border-radius: 4px; object-fit: cover; aspect-ratio: 4/3;" alt="Hiking scene 3">
 </div>
 
 [//]: # (# 📖 Educations)
