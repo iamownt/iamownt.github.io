@@ -28,8 +28,8 @@ During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.go
 - *2022.11*: &nbsp;🎉🎉 My third paper on **IEEE Transactions on Industrial Informatics** is accepted.
 - *2022.09*: &nbsp;🎉🎉 Our model achieves state-of-the-art performance on [Waymo Open Motion Dataset](https://waymo.com/open/challenges/2022/motion-prediction/). Best Single Model: "TypeNMS".
 - *2022.08*: &nbsp;🎉🎉 My article on Zhihu received 2w+ readings and 230+ stars, see [How long does it take to train a Transformer-based model](https://zhuanlan.zhihu.com/p/456046786).
-# 📝 Publications 
 
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NBME 2026</div><img src='images/TRUECAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,14 +44,14 @@ X. Zhang†*, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, 
 </div>
 
 
-- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TSMC</span> [**Causality-Informed Neural Networks for Regularized Learning in Regression Problems**](https://doi.org/10.1109/TSMC.2025.3646993), X. Zhang*, **T. Wang**, X. L. Wang, F. L. Fan, Y. M. Cheung, and I. Bose.
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TSMC</span> [**Causality-Informed Neural Networks for Regularized Learning in Regression Problems**](https://doi.org/10.1109/TSMC.2025.3646993), X. Zhang\*, **T. Wang**, X. L. Wang, F. L. Fan, Y. M. Cheung, and I. Bose.
 
-- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">JRSE</span> [**Reliability engineering, risk management, and trustworthiness assurance for AI systems**](https://doi.org/10.34133/jrse.0022), X. Zhang*, **T. Wang**, L. Ma, S. Mahadevan. <span style="color: vkacj; font-weight: bold;">(Excellent Article of the Year)</span>
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">JRSE</span> [**Reliability engineering, risk management, and trustworthiness assurance for AI systems**](https://doi.org/10.34133/jrse.0022), X. Zhang\*, **T. Wang**, L. Ma, S. Mahadevan. <span style="color: vkacj; font-weight: bold;">(Excellent Article of the Year)</span>
 
-- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**A Lightweight and Adaptive Knowledge Distillation Framework for Remaining Useful Life Prediction**](https://doi.org/10.1109/TII.2022.3223071), L. Ren*, **T. Wang**, Z. Jia, F. Li, H. Han. (*Student first author*)
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**A Lightweight and Adaptive Knowledge Distillation Framework for Remaining Useful Life Prediction**](https://doi.org/10.1109/TII.2022.3223071), L. Ren\*, **T. Wang**, Z. Jia, F. Li, H. Han. (*Student first author*)
 
-- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**A Data-driven Self-supervised LSTM-DeepFM Model for Industrial Soft Sensor**](https://doi.org/10.1109/TII.2021.3131471), L. Ren*, **T. Wang**, Y. Laili, L. Zhang. (*Student first author*)
-- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**LM-CNN: A Cloud-Edge Collaborative Method for Adaptive Fault Diagnosis With Label Sampling Space Enlarging**](https://doi.org/10.1109/TII.2022.3180389), L. Ren*, Z. Jia, **T. Wang**, Y. Ma, Lihui Wang.
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**A Data-driven Self-supervised LSTM-DeepFM Model for Industrial Soft Sensor**](https://doi.org/10.1109/TII.2021.3131471), L. Ren\*, **T. Wang**, Y. Laili, L. Zhang. (*Student first author*)
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**LM-CNN: A Cloud-Edge Collaborative Method for Adaptive Fault Diagnosis With Label Sampling Space Enlarging**](https://doi.org/10.1109/TII.2022.3180389), L. Ren\*, Z. Jia, **T. Wang**, Y. Ma, Lihui Wang.
 
 <span> † means equal contribution and * indicates my supervisor.</span>
 
