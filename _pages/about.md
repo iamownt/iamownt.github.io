@@ -30,15 +30,16 @@ During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.go
 - *2022.08*: &nbsp;🎉🎉 My article on Zhihu received 2w+ readings and 230+ stars, see [How long does it take to train a Transformer-based model](https://zhuanlan.zhihu.com/p/456046786).
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NBME 2026</div><img src='images/TRUECAM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NBME 2026</div><img src='images/TRUECAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Implementing Trust in Non-Small Cell Lung Cancer Diagnosis with a Conformalized Uncertainty-Aware AI Framework in Whole-Slide Images](https://www.researchsquare.com/article/rs-5723270/v1.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+X. Zhang†, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, B. A. Malin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+[**Code**](https://github.com/iamownt/TRUECAM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- TRUECAM (**TR**ustworthiness-focused, **U**ncertainty-aware, **E**nd-to-end **CA**ncer diagnosis with **M**odel-agnostic capabilities) is a framework designed to simultaneously ensure data and model trustworthiness: 1) a spectral-normalized neural Gaussian process (SNGP) to establish informative data representation and uncertainty quantification, 2) an elimination of ambiguous tiles (EAT) mechanism for filtering out noisy patches from slides, and 3) conformal prediction (CP) to enable a statistically guaranteed error rate. 
 </div>
 </div>
 
