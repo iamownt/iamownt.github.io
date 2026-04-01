@@ -35,15 +35,26 @@ During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.go
 
 [Implementing Trust in Non-Small Cell Lung Cancer Diagnosis with a Conformalized Uncertainty-Aware AI Framework in Whole-Slide Images](https://www.researchsquare.com/article/rs-5723270/v1.pdf)
 
-X. Zhang†, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, B. A. Malin
+X. Zhang†*, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, B. A. Malin
 
 
 [**Code**](https://github.com/iamownt/TRUECAM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a framework to simultaneously ensure data and model trustworthiness: 1) a spectral-normalized neural Gaussian process (SNGP) to establish informative data representation and uncertainty quantification, 2) an elimination of ambiguous tiles (EAT) mechanism for filtering out noisy patches from slides, and 3) conformal prediction (CP) to enable a statistically guaranteed error rate. 
+- We propose a framework to simultaneously ensure data and model trustworthiness: 1) a spectral-normalized neural Gaussian process (SNGP) to establish informative data representation and uncertainty quantification, 2) an elimination of ambiguous tiles (EAT) mechanism for filtering out noisy patches from slides, and 3) conformal prediction (CP) to enable a statistically guaranteed error rate.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TSMC</span> [**Causality-Informed Neural Networks for Regularized Learning in Regression Problems**](https://doi.org/10.1109/TSMC.2025.3646993), X. Zhang*, **T. Wang**, X. L. Wang, F. L. Fan, Y. M. Cheung, and I. Bose.
+
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">JRSE</span> [**Reliability engineering, risk management, and trustworthiness assurance for AI systems**](https://doi.org/10.34133/jrse.0022), X. Zhang*, **T. Wang**, L. Ma, S. Mahadevan. <span style="color: vkacj; font-weight: bold;">(Excellent Article of the Year)</span>
+
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**A Lightweight and Adaptive Knowledge Distillation Framework for Remaining Useful Life Prediction**](https://doi.org/10.1109/TII.2022.3223071), L. Ren*, **T. Wang**, Z. Jia, F. Li, H. Han. (*Student first author*)
+
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**A Data-driven Self-supervised LSTM-DeepFM Model for Industrial Soft Sensor**](https://doi.org/10.1109/TII.2021.3131471), L. Ren*, **T. Wang**, Y. Laili, L. Zhang. (*Student first author*)
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TII</span> [**LM-CNN: A Cloud-Edge Collaborative Method for Adaptive Fault Diagnosis With Label Sampling Space Enlarging**](https://doi.org/10.1109/TII.2022.3180389), L. Ren*, Z. Jia, **T. Wang**, Y. Ma, Lihui Wang.
+
+<span> † means equal contribution and * indicates my supervisor.</span>
+
 
 # 🎖 Honors and Awards
 - *2023*: Outstanding Graduate, Beihang University. 
