@@ -17,18 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. student at the [Department of Industrial and Systems Engineering](https://www.polyu.edu.hk/ise/) of The Hong Kong Polytechnic University, supervised by [Prof. Xiaoge Zhang](https://www.polyu.edu.hk/ise/people/academic-staff/xiaoge-zhang/) and [Prof. Nick Chung](https://www.polyu.edu.hk/ise/people/academic-staff/nick-sh-chung/). Previously, I received my M.E. and B.E. from the [School of Automation Science and Electrical Engineering](https://www.buaa.edu.cn/) of Beihang University in 2023 and 2020 respectively, supervised by [Prof. Lei Ren](https://shi.buaa.edu.cn/renlei/en/more/190928/jsjjgd/index.htm) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=OfYkLTgAAAAJ&view_op=list_works&sortby=pubdate). I also spent over a year working as a Research Intern at Baidu Research (Cognitive Computing Lab).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.google.com/citations?hl=en&user=_yXrQFkAAAAJ) and [Prof. Bradley Malin](https://www.vumc.org/dbmi/person/bradley-malin-phd) from Vanderbilt University, and [Prof. Lei Ren](https://shi.buaa.edu.cn/renlei/en/more/190928/jsjjgd/index.htm) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=OfYkLTgAAAAJ&view_op=list_works&sortby=pubdate) from Beihang University.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2026.03*: &nbsp;🎉🎉 TRUECAM is accepted by **Nature Biomedical Engineering**.
+- *2026.01*: &nbsp;🎉🎉 one paper is accepted by **IEEE Transactions on Systems, Man, and Cybernetics: Systems**.
+- *2025.04*: &nbsp;🎉🎉 one survey paper is accepted by **Journal of Reliability Science and Engineering**.
+- *2022.11*: &nbsp;🎉🎉 My third paper on **IEEE Transactions on Industrial Informatics** is accepted.
+- *2022.09*: &nbsp;🎉🎉 Our model achieves state-of-the-art performance on [Waymo Open Motion Dataset](https://waymo.com/open/challenges/2022/motion-prediction/). Best Single Model: "TypeNMS".
+- *2022.08*: &nbsp;🎉🎉 My article on Zhihu received 2w+ readings and 230+ stars, see [How long does it take to train a Transformer-based model](https://zhuanlan.zhihu.com/p/456046786).
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NBME 2026</div><img src='images/TRUECAM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -43,16 +45,29 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*: Outstanding Graduate, Beihang University. 
+- *2023*: Outstanding Academic Innovation Achievement Award, Beihang University. 
+- *2022*: National Scholarship, Ministry of Education of China. 
+- *2020, 2021, 2022*: Second Prize Academic Scholarship, Beihang University. 
+- *2019*: First Prize of The 11th National College Students Mathematics Competition. 
+- *2018*: Special Scholarship for Discipline Competition, Beihang University. 
+- *2017*: First Prize of The 9th National College Students Mathematics Competition. 
+- *2015*: Second Prize of The Final of Fujian High School Mathematics Competition. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[//]: # (# 📖 Educations)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[//]: # (- *2024.09 - 2027.09 &#40;expected&#41;*, Ph.D. in Industrial and Systems Engineering, **The Hong Kong Polytechnic University**. )
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[//]: # (- *2020.09 - 2023.01*, M.Sc. in Electronic Information, **Beihang University**. )
+
+[//]: # (- *2016.09 - 2020.07*, B.S. in Automation, **Beihang University**. )
+
+[//]: # (# 💬 Invited Talks)
+
+[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
+
+[//]: # (# 💻 Internships)
+
+[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
