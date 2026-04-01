@@ -39,7 +39,7 @@ X. Zhang†, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, B
 
 
 [**Code**](https://github.com/iamownt/TRUECAM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- TRUECAM (**TR**ustworthiness-focused, **U**ncertainty-aware, **E**nd-to-end **CA**ncer diagnosis with **M**odel-agnostic capabilities) is a framework designed to simultaneously ensure data and model trustworthiness: 1) a spectral-normalized neural Gaussian process (SNGP) to establish informative data representation and uncertainty quantification, 2) an elimination of ambiguous tiles (EAT) mechanism for filtering out noisy patches from slides, and 3) conformal prediction (CP) to enable a statistically guaranteed error rate. 
+- We propose a framework to simultaneously ensure data and model trustworthiness: 1) a spectral-normalized neural Gaussian process (SNGP) to establish informative data representation and uncertainty quantification, 2) an elimination of ambiguous tiles (EAT) mechanism for filtering out noisy patches from slides, and 3) conformal prediction (CP) to enable a statistically guaranteed error rate. 
 </div>
 </div>
 
