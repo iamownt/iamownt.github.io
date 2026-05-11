@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the [Department of Industrial and Systems Engi
 During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.google.com/citations?hl=en&user=_yXrQFkAAAAJ) and [Prof. Bradley Malin](https://www.vumc.org/dbmi/person/bradley-malin-phd) from Vanderbilt University, and [Prof. Lei Ren](https://shi.buaa.edu.cn/renlei/en/more/190928/jsjjgd/index.htm) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=OfYkLTgAAAAJ&view_op=list_works&sortby=pubdate) from Beihang University.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper is accepted by **IEEE Transactions on Evolutionary Computation**, Congrats to Kunyu!
 - *2026.03*: &nbsp;🎉🎉 TRUECAM is accepted by **Nature Biomedical Engineering**.
 - *2026.01*: &nbsp;🎉🎉 one paper is accepted by **IEEE Transactions on Systems, Man, and Cybernetics: Systems**.
 - *2025.04*: &nbsp;🎉🎉 one survey paper is accepted by **Journal of Reliability Science and Engineering**.
