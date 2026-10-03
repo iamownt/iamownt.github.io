@@ -22,6 +22,10 @@ I am currently a Ph.D. student at the [Department of Industrial and Systems Engi
 During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.google.com/citations?hl=en&user=_yXrQFkAAAAJ) and [Prof. Bradley Malin](https://www.vumc.org/dbmi/person/bradley-malin-phd) from Vanderbilt University, and [Prof. Lei Ren](https://shi.buaa.edu.cn/renlei/en/more/190928/jsjjgd/index.htm) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=OfYkLTgAAAAJ&view_op=list_works&sortby=pubdate) from Beihang University.
 
 # 🔥 News
+<div class="news-scroll" role="region" aria-label="Latest news" tabindex="0" markdown="1">
+
+- *2026.09*: &nbsp;🎉🎉 one paper is published online in **IEEE Transactions on Reliability**.
+- *2026.06*: &nbsp;🎉🎉 Our paper is accepted on **IEEE Transactions on Big Data**. Congrats to Yuqing!
 - *2026.05*: &nbsp;🎉🎉 Our paper is accepted by **IEEE Transactions on Evolutionary Computation**, Congrats to Kunyu!
 - *2026.03*: &nbsp;🎉🎉 TRUECAM is accepted by **Nature Biomedical Engineering**.
 - *2026.01*: &nbsp;🎉🎉 one paper is accepted by **IEEE Transactions on Systems, Man, and Cybernetics: Systems**.
@@ -29,6 +33,8 @@ During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.go
 - *2022.11*: &nbsp;🎉🎉 My third paper on **IEEE Transactions on Industrial Informatics** is accepted.
 - *2022.09*: &nbsp;🎉🎉 Our model achieves state-of-the-art performance on [Waymo Open Motion Dataset](https://waymo.com/open/challenges/2022/motion-prediction/). Best Single Model: "TypeNMS".
 - *2022.08*: &nbsp;🎉🎉 My article on Zhihu received 2w+ readings and 230+ stars, see [How long does it take to train a Transformer-based model](https://zhuanlan.zhihu.com/p/456046786).
+
+</div>
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NBME 2026</div><img src='images/TRUECAM.png' alt="sym" width="100%"></div></div>
@@ -44,6 +50,8 @@ X. Zhang†*, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, 
 </div>
 </div>
 
+
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TR 2026</span> [**A Unified Framework for Reliable Deep Learning: Conformal Prediction Meets Out-of-Distribution Detection**](https://doi.org/10.1109/TR.2026.3732156), L. Xue, **T. Wang**, Y. M. Cheung, X. Zhao, S. H. Chung, and X. Zhang\*. *IEEE Transactions on Reliability*, 2026.
 
 - <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TSMC</span> [**Causality-Informed Neural Networks for Regularized Learning in Regression Problems**](https://doi.org/10.1109/TSMC.2025.3646993), X. Zhang\*, **T. Wang**, X. L. Wang, F. L. Fan, Y. M. Cheung, and I. Bose.
 

@@ -107,3 +107,27 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.news-scroll {
+    max-height: 18rem;
+    overflow-y: auto;
+    scrollbar-gutter: stable;
+    padding: 0.25rem 1rem 0.25rem 0.25rem;
+
+    > ul {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    &:focus-visible {
+        outline: 2px solid #00369f;
+        outline-offset: 2px;
+    }
+}
+
+@media print {
+    .news-scroll {
+        max-height: none;
+        overflow: visible;
+    }
+}
