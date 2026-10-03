@@ -22,7 +22,7 @@ I am currently a Ph.D. student at the [Department of Industrial and Systems Engi
 During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.google.com/citations?hl=en&user=_yXrQFkAAAAJ) and [Prof. Bradley Malin](https://www.vumc.org/dbmi/person/bradley-malin-phd) from Vanderbilt University, and [Prof. Lei Ren](https://shi.buaa.edu.cn/renlei/en/more/190928/jsjjgd/index.htm) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=OfYkLTgAAAAJ&view_op=list_works&sortby=pubdate) from Beihang University.
 
 # 🔥 News
-<div class="news-scroll" role="region" aria-label="Latest news" tabindex="0" markdown="1">
+<div class="news-scroll" data-visible-rows="8" role="region" aria-label="Latest news" tabindex="0" markdown="1">
 
 - *2026.09*: &nbsp;🎉🎉 one paper is published online in **IEEE Transactions on Reliability**.
 - *2026.06*: &nbsp;🎉🎉 Our paper is accepted on **IEEE Transactions on Big Data**. Congrats to Yuqing!

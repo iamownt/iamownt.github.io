@@ -109,7 +109,7 @@ h1:before, .anchor:before {
 }
 
 .news-scroll {
-    max-height: 18rem;
+    max-height: var(--news-max-height, 24rem);
     overflow-y: auto;
     scrollbar-gutter: stable;
     padding: 0.25rem 1rem 0.25rem 0.25rem;
