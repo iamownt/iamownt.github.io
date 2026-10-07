@@ -25,7 +25,6 @@ During my Ph.D. journey, I work closely with [Prof. Chao Yan](https://scholar.go
 <div class="news-scroll" data-visible-rows="8" role="region" aria-label="Latest news" tabindex="0" markdown="1">
 
 - *2026.09*: &nbsp;🎉🎉 one paper is published online in **IEEE Transactions on Reliability**.
-- *2026.06*: &nbsp;🎉🎉 Our paper is accepted on **IEEE Transactions on Big Data**. Congrats to Yuqing!
 - *2026.05*: &nbsp;🎉🎉 Our paper is accepted by **IEEE Transactions on Evolutionary Computation**, Congrats to Kunyu!
 - *2026.03*: &nbsp;🎉🎉 TRUECAM is accepted by **Nature Biomedical Engineering**.
 - *2026.01*: &nbsp;🎉🎉 one paper is accepted by **IEEE Transactions on Systems, Man, and Cybernetics: Systems**.
@@ -51,7 +50,7 @@ X. Zhang†*, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, 
 </div>
 
 
-- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TR 2026</span> [**A Unified Framework for Reliable Deep Learning: Conformal Prediction Meets Out-of-Distribution Detection**](https://doi.org/10.1109/TR.2026.3732156), L. Xue, **T. Wang**, Y. M. Cheung, X. Zhao, S. H. Chung, and X. Zhang\*. *IEEE Transactions on Reliability*, 2026.
+- <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TR</span> [**A Unified Framework for Reliable Deep Learning: Conformal Prediction Meets Out-of-Distribution Detection**](https://doi.org/10.1109/TR.2026.3732156), L. Xue, **T. Wang**, Y. M. Cheung, X. Zhao, S. H. Chung, and X. Zhang\*.
 
 - <span style="background-color: #003399; color: white; padding: 1px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em; margin-right: 5px;">TSMC</span> [**Causality-Informed Neural Networks for Regularized Learning in Regression Problems**](https://doi.org/10.1109/TSMC.2025.3646993), X. Zhang\*, **T. Wang**, X. L. Wang, F. L. Fan, Y. M. Cheung, and I. Bose.
 
@@ -77,7 +76,7 @@ X. Zhang†*, **T. Wang†**, C. Yan†, F. Najdawi, K. Zhou, Y. Ma, Y. Cheung, 
 
 # 💼 Academic Services
 
-- **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Automation Science and Engineering (T-ASE), Journal of Industrial Information Integration (JIII), BMC Medical Informatics and Decision Making
+- **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE Transactions on Reliability (TR), Journal of Industrial Information Integration (JIII), BMC Medical Informatics and Decision Making
 - **Conference Reviewer:** International Conference on Learning Representations (ICLR), Neural Information Processing Systems (NeurIPS)
 
 # 🍹 Misc
